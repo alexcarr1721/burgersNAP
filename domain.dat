@@ -1,0 +1,7 @@
+tsize:	1024
+xsize:	256
+shock_distance:	10
+c0:	343
+rho0:	1.25
+p0:	101325.0
+gamma:	1.4
